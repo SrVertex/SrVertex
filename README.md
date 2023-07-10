@@ -1,6 +1,6 @@
 ### Olá, Sou Leonardo Nunes Decaris, vulgo SrVertex!
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=SrVertex&show_icons=true&count_private=true&theme=highcontrast">      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrVertex&layout=compact&langs_count=16&theme=highcontrast">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SrVertex&show_icons=true&count_private=true&theme=highcontrast">      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrVertex&layout=compact&langs_count=16&theme=highcontrast">
 
 
 ### 🚀 Atualmente Estudando
