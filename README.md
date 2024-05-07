@@ -10,7 +10,7 @@
   <img align="center" alt="SrVertex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
- ![snake gif](https://github.com/SrVertex/SrVertex/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SrVertex/SrVertex/blob/output/github-contribution-grid-snake.gif)
 
 <br><br> 
 ### Conheça Meus Trabalhos Com Desenvolvimento 3d De Conteudo Para Jogos Nas Redes Sociais!
