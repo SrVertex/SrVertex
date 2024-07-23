@@ -1,4 +1,6 @@
-### Olá, Sou Leonardo Nunes Decaris, vulgo SrVertex!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ola%2C+Sou+Leonardo+Nunes+Decaris...;Vulgo+SrVertex.+Bem+Vindo!)](https://git.io/typing-svg)
+
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SrVertex&show_icons=true&count_private=true&theme=highcontrast">      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrVertex&layout=compact&langs_count=16&theme=highcontrast">
 
@@ -11,6 +13,11 @@
 </div>
  
 ![snake gif](https://github.com/SrVertex/SrVertex/blob/output/github-contribution-grid-snake.gif)
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SrVertex&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br><br> 
 ### Conheça Meus Trabalhos Com Desenvolvimento 3d De Conteudo Para Jogos Nas Redes Sociais!
@@ -28,14 +35,6 @@
 
 
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ola%2C+Sou+Leonardo+Nunes+Decaris...;Vulgo+SrVertex.+Bem+Vindo!)](https://git.io/typing-svg)
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SrVertex&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
