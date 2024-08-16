@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D211&width=435&lines=Ola%2C+Sou+Leonardo+Nunes+Decaris...;Vulgo+SrVertex.+Bem+Vindo!)](https://git.io/typing-svg)
 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SrVertex&show_icons=true&count_private=true&theme=highcontrast">      <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrVertex&layout=compact&langs_count=16&theme=highcontrast">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SrVertex&show_icons=true&count_private=true&theme=highcontrast">      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrVertex&layout=compact&langs_count=16&theme=highcontrast">
 
 
 ### 🚀 Atualmente Estudando
